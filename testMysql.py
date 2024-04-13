@@ -4,6 +4,8 @@
 # Sirve para ver la lista de los paquetes instalados 
 # pip list
 
+# python testMysql.py (Se usa para ejecutar el archivo)
+
 import mysql.connector
 
 
